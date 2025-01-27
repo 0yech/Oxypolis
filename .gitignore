@@ -11,6 +11,7 @@
 .vs/
 .idea/
 .vscode/
+README.md
 
 # OS generated files
 .DS_Store
