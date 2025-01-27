@@ -11,6 +11,12 @@ Navigate through space. Building your own station in a survival/farm experience.
 Made in 48 Hours @ Pyxis Lausanne
 <br>
 
+# Screenshots
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d1b49e78-2f73-42fc-8114-60b805a3424f" alt="Oxypolis_screenshot" "width="500">
+</div>
+
 # Links
 
 <div style="margin-top: 200px;">
@@ -23,15 +29,9 @@ Made in 48 Hours @ Pyxis Lausanne
   <img src="https://img.shields.io/badge/Play_on-Itch.io-orange?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Link">
 </a>
 <br><br>
-  
-# Screenshots
-
 </div>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d1b49e78-2f73-42fc-8114-60b805a3424f" alt="Oxypolis_screenshot" "width="500">
-</div>
 
 <div align="center">
   
