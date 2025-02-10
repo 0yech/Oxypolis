@@ -1,0 +1,22 @@
+{
+	"upgrades":[
+    { "title": "Solar Panel", "description": "Generates energy.", "cost": 50, "effect": "+1 Energy/Step" },
+    { "title": "Oxygen Tank", "description": "Stores more oxygen.", "cost": 100, "effect": "Max Oxygen +50" },
+	{ "title": "Compost", "description": "Humans learned a new way to use them wastes. Improve crops production.", "cost": 100, "effect": "x1.10 Food/step" },
+	{ "title": "Greenhouse", "description": "Improve crops production.", "cost": 200, "effect": "x1.10 Food/step" },
+	{ "title": "Hydroponics", "description": "Improve crops production.", "cost": 300, "effect": "x1.10 Food/step" },
+	{ "title": "Fertilizer", "description": "Improve crops production.", "cost": 400, "effect": "x1.10 Food/step" },
+	{ "title": "Irrigation", "description": "Improve crops production.", "cost": 500, "effect": "x1.10 Food/step" },
+	{ "title": "Aeroponics", "description": "Improve crops production.", "cost": 600, "effect": "x1.10 Food/step" },
+	{ "title": "Aquaponics", "description": "Improve crops production.", "cost": 700, "effect": "x1.10 Food/step" },
+	{ "title": "Vertical Farming", "description": "Improve crops production.", "cost": 800, "effect": "x1.10 Food/step" },
+	{ "title": "Permaculture", "description": "Improve crops production.", "cost": 900, "effect": "x1.10 Food/step" },
+	{ "title": "Agroforestry", "description": "Improve crops production.", "cost": 1000, "effect": "x1.10 Food/step" },
+	{ "title": "Polyculture", "description": "Improve crops production.", "cost": 1100, "effect": "x1.10 Food/step" },
+	{ "title": "Crop Rotation", "description": "Improve crops production.", "cost": 1200, "effect": "x1.10 Food/step" },
+	{ "title": "Cover Crops", "description": "Improve crops production.", "cost": 1300, "effect": "x1.10 Food/step" },
+	{ "title": "No-Till Farming", "description": "Improve crops production.", "cost": 1400, "effect": "x1.10 Food"},
+	{ "title": "Tree oxygen improvement", "description": "improve tree oxygen production.", "cost": 150, "effect":"x1.10 Oxygen/step"},
+	{ "title": "Oxygen generator upgrade", "description":"Oxygen generator wastes less oxygen.", "cost":250, "effect":"x1.10 Oxygen/step"}
+]
+}

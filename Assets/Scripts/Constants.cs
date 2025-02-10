@@ -13,12 +13,12 @@ public class Constants
 
 	public const float	OXYGEN_TANK_SIZE = 318_086_000f; // 318L (5 silo)
 
-	public const float	REQ_TANK_OXY = 400000f;
+	public const float	REQ_TANK_OXY = 4000f;
 	public const int	REQ_TANK_WOR = 2;
-	public const float	REQ_FOOD_OXY = 120000f;
+	public const float	REQ_FOOD_OXY = 120f;
 	public const int	REQ_FOOD_WOR = 2;
-	public const float	REQ_OXYG_OXY = 200000f;
+	public const float	REQ_OXYG_OXY = 20f;
 	public const int	REQ_OXYG_WOR = 2;
-	public const float	REQ_ROCK_OXY = 500000f;
+	public const float	REQ_ROCK_OXY = 500f;
 	public const int	REQ_ROCK_WOR = 1;
 }
